@@ -1,0 +1,5 @@
+com\mylibrary\App.class
+com\mylibrary\PrimaryController.class
+com\mylibrary\Book.class
+module-info.class
+com\mylibrary\LibraryUI.class
